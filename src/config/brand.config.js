@@ -1,0 +1,1 @@
+export const defaultBrand={logoText:"O.",colors:{primary:"#bd914e",primaryStrong:"#946c36",accent:"#d7b678",surface:"#ffffff",background:"#f5f2ec",text:"#171815",muted:"#6f706a"},fonts:{display:"'Playfair Display', Georgia, serif",body:"'DM Sans', Arial, sans-serif"},radius:"2px"};
